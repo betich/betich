@@ -1,4 +1,6 @@
-### Hi there 👋
+### hi worl 👋
+
+![profile](https://www.dl.dropboxusercontent.com/s/4g9b6yoko6c7s64/deepfry.jpg "betich")
 
 <!--
 **betich/betich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
