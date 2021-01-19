@@ -1,4 +1,4 @@
-### hi worl 👋
+### hi 👋
 
 ![profile](https://raw.githubusercontent.com/betich/betich/master/betich.png "betich")
 
