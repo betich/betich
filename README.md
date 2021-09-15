@@ -1,9 +1,79 @@
-# hi 🥵
+<p align="center">
+  <img src="https://raw.githubusercontent.com/betich/betich/master/betich.png" alt="profile">
+</p>
 
-hihihihihi
+<h1 align="center">hi 🥵</h1>
 
-![profile](https://raw.githubusercontent.com/betich/betich/master/betich.png "betich")
+<p align="center">hi, my name is ████. i like ███, █████ and typing things in lowercase</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true)
+<h2>Things I kinda know</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+idk these icons look cool
+
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank">
+     <img src="https://github.com/betich/betich/blob/master/nextjs-white.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  
+  <a href="https://sass-lang.com/" target="_blank">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  
+  <a href="https://sass-lang.com/" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nodejs.org/en/" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  
+  <a href="https://svelte.dev/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
+  </a>
+  
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery(lol)" width="40" height="40"/>
+  </a>
+  
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html(lol)" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css(lol)" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript(lol)" width="40" height="40"/>
+  </a>
+</p>
+
+<h2>Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
+</a>
+
+<p align="center">made with 🤍</p>
