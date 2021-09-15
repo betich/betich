@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/betich/betich/master/betich.png" alt="profile">
+  <img src="https://raw.githubusercontent.com/betich/betich/main/src/betich.png" alt="profile">
 </p>
 
 <h1 align="center">hi 🥵</h1>
@@ -16,7 +16,7 @@ idk these icons look cool
   </a>
   
   <a href="https://nextjs.org/" target="_blank">
-     <img src="https://github.com/betich/betich/blob/master/nextjs-white.svg" alt="nextjs" width="40" height="40"/>
+     <img src="https://github.com/betich/betich/blob/main/src/nextjs-white.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
   <a href="https://reactjs.org/" target="_blank">
