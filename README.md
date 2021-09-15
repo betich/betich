@@ -28,18 +28,6 @@ idk these icons look cool
   <a href="https://www.python.org/" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html(lol)" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css(lol)" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript(lol)" width="40" height="40"/>
-  </a>
 </p>
 
 <h3>Frameworks/Libraries</h3>
