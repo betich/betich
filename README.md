@@ -49,6 +49,10 @@ idk these icons look cool
      <img src="https://github.com/betich/betich/blob/main/src/nextjs-white.svg" alt="nextjs" width="40" height="40"/>
   </a>
 
+  <a href="https://preactjs.com/" target="_blank">
+     <img src="https://github.com/betich/betich/blob/main/src/preact.svg" alt="preact" width="40" height="40"/>
+  </a>
+
   <a href="https://reactjs.org/" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
