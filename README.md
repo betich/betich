@@ -6,6 +6,7 @@
 
 <p align="center">hi, my name is ████. i like ███, █████ and typing things in lowercase</p>
 
+<!--
 <h2>Things I kinda know</h2>
 
 idk these icons look cool
@@ -69,6 +70,8 @@ idk these icons look cool
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
+
+-->
 
 <h2>Stats</h2>
 
