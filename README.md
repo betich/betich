@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/betich/betich/main/src/betich.png" alt="profile">
+  <img src="/src/betich.png" alt="profile">
 </p>
 
 <h1 align="center">hi 🥵</h1>
