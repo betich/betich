@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="/src/betich.png" alt="profile">
-</p>
-
 <h1 align="center">hi 🥵</h1>
 
 <p align="center">hi, my name is ████. i like ███, █████ and typing things in lowercase</p>
+
+<p align="center">
+  <img src="/src/betich.png" alt="profile">
+</p>
 
 <!--
 <h2>Things I kinda know</h2>
@@ -73,6 +73,7 @@ idk these icons look cool
 
 -->
 
+<!--
 <h2>Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
@@ -80,5 +81,6 @@ idk these icons look cool
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
 </a>
+-->
 
-<p align="center">made with 🤍</p>
+<p align="center">🤍</p>
