@@ -75,11 +75,22 @@ idk these icons look cool
 
 <h2>Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
-</a>
+</a> -->
+
+<details align="left">
+   <summary> <samp>&#9776; Click to expand</samp></summary>
+     <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
+     </a>
+  </p>
+</details>
 
 
 <p align="center">🤍</p>
