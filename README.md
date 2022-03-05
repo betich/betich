@@ -1,10 +1,8 @@
 <h1 align="center">hi 🥵</h1>
 
-<p align="center">hi, my name is ████. i like ███, █████ and typing things in lowercase</p>
+<img width="40%" align="right" src="/src/betich.png" alt="profile">
 
-<p align="center">
-  <img src="/src/betich.png" alt="profile">
-</p>
+<p align="left">hi, my name is ████. i like ███, █████ and typing things in lowercase</p>
 
 <!--
 <h2>Things I kinda know</h2>
@@ -81,16 +79,15 @@ idk these icons look cool
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
 </a> -->
 
-<details align="left">
-   <summary> <samp>&#9776; Click to expand</samp></summary>
-     <br>
+<details align="left" open>
+  <summary><samp>&#9776; Click</samp></summary>
+  <br>
       <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
-     </a>
-  </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
+  </a>
 </details>
 
+<p width="100%" align="center">🤍</p>
 
-<p align="center">🤍</p>
