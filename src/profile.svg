@@ -5,7 +5,7 @@
         @import url("https://fonts.googleapis.com/css2?family=Fira+Mono");
       
         /* GLOBAL STYLES */
-      body {
+      .container {
         font-family: "Fira Mono", monospace;
         background: #eee;
         color: #111;
