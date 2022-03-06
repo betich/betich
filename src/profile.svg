@@ -3,36 +3,36 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @import url("https://fonts.googleapis.com/css2?family=Fira+Mono");
-      /* GLOBAL STYLES */
-      .container {
+      
+        /* GLOBAL STYLES */
+      body {
         font-family: "Fira Mono", monospace;
-        <!-- background: #131313;
-        color: #fff; -->
         background: #eee;
         color: #111;
         padding: 16px;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
-        /* padding-top: 5em; */
-        /* display: flex; */
-        /* justify-content: center; */
         font-size: 16px;
-        width: 100vw;
-        height: 100vh;
       }
 
       /* DEMO-SPECIFIC STYLES */
       .typewriter h1 {
-        overflow: hidden; /* Ensures the content is not revealed until the animation */
-        border-right: 0.5em solid orange; /* The typwriter cursor */
+        overflow: hidden;
+        border-right: 0.5em solid orange;
         padding-right: 0.3em;
-        white-space: nowrap; /* Keeps the content on a single line */
-        margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-        /* letter-spacing: 0.1em; Adjust as needed */
+        white-space: nowrap;
+        margin: 0 auto;
         animation: typing 0.5s steps(6, end) 1.25s,
           blink-caret 650ms step-end infinite, appear 1.25s step-end;
         font-size: 1em;
+      }
+
+      .output {
+        animation: appear 2s step-end;
+        font-size: 1em;
+        color: #333;
+        font-style: italic;
       }
 
       /* The typing effect */
@@ -70,6 +70,7 @@
         <div class="typewriter">
           <h1>betich</h1>
         </div>
+        <p class="output">this image is pure svg, not a gif!</p>
       </div>
     </div>
   </foreignObject>
