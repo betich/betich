@@ -2,9 +2,9 @@
 
 <img width="20%" align="left" src="/src/betich.png" alt="profile">
 
-<h1>hi 🐱</h1>
+<h1>hi, ████</h1>
 
-<p>my name is ████.</p>
+<p>i code.</p>
   
 <!--
 <h2>Things I kinda know</h2>
