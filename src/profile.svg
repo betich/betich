@@ -2,12 +2,14 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-      @import url("https://fonts.googleapis.com/css2?family=Fira+Mono");
+        @import url("https://fonts.googleapis.com/css2?family=Fira+Mono");
       /* GLOBAL STYLES */
       .container {
-        background: #131313;
         font-family: "Fira Mono", monospace;
-        color: #fff;
+        <!-- background: #131313;
+        color: #fff; -->
+        background: #eee;
+        color: #111;
         padding: 16px;
         display: flex;
         flex-direction: column;
@@ -62,7 +64,7 @@
           border-color: orange;
         }
       }
-			</style>
+      </style>
       <div class="container">
         <p>$ whats your name?</p>
         <div class="typewriter">
