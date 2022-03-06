@@ -1,0 +1,74 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+      @import url("https://fonts.googleapis.com/css2?family=Fira+Mono");
+      /* GLOBAL STYLES */
+      .container {
+        background: #131313;
+        font-family: "Fira Mono", monospace;
+        color: #fff;
+        padding: 16px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        /* padding-top: 5em; */
+        /* display: flex; */
+        /* justify-content: center; */
+        font-size: 16px;
+        width: 100vw;
+        height: 100vh;
+      }
+
+      /* DEMO-SPECIFIC STYLES */
+      .typewriter h1 {
+        overflow: hidden; /* Ensures the content is not revealed until the animation */
+        border-right: 0.5em solid orange; /* The typwriter cursor */
+        padding-right: 0.3em;
+        white-space: nowrap; /* Keeps the content on a single line */
+        margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+        /* letter-spacing: 0.1em; Adjust as needed */
+        animation: typing 0.5s steps(6, end) 1.25s,
+          blink-caret 650ms step-end infinite, appear 1.25s step-end;
+        font-size: 1em;
+      }
+
+      /* The typing effect */
+      @keyframes typing {
+        from {
+          width: 0;
+        }
+        to {
+          width: 100%;
+        }
+      }
+
+      @keyframes appear {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+
+      /* The typewriter cursor effect */
+      @keyframes blink-caret {
+        from,
+        to {
+          border-color: transparent;
+        }
+        50% {
+          border-color: orange;
+        }
+      }
+			</style>
+      <div class="container">
+        <p>$ whats your name?</p>
+        <div class="typewriter">
+          <h1>betich</h1>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
