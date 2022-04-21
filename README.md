@@ -1,10 +1,16 @@
 [<img src="/src/profile.svg" alt="profile" />](https://github.com/betich/betich/blob/main/src/profile.svg)
 
-<img width="20%" align="left" src="/src/betich.png" alt="profile">
+<!-- <img width="20%" align="left" src="/src/betich.png" alt="profile"> -->
 
-<h1>salut~</h1>
+<h1>👋 salut</h1>
 
-<p>i code.</p>
+i made
+
+- [tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator)
+- [salimtype](https://github.com/betich/salimtype)
+- [online loy kratong festival - with TUCMC](https://github.com/triamudomcmc/loy-kratong)
+- [triam udom open house 2022 - with TUCMC](https://github.com/triamudomcmc/openhouse2022)
+- [triam udom club registration system - with TUCMC](https://github.com/triamudomcmc/clubreg)
   
 <!--
 <h2>Things I kinda know</h2>
@@ -81,8 +87,8 @@ idk these icons look cool
 
 <div>
 <details>
-  <summary><samp>Stats</samp></summary>
-  <h2>Stats</h2>
+  <summary><samp>stats</samp></summary>
+  <h2>my github stats</h2>
   <br>
       <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
   <br>
@@ -93,5 +99,5 @@ idk these icons look cool
   
 </div>
 
-<hr>
-<p width="100%" align="center">🤍</p>
+<!-- <hr> -->
+<p>everything made with 🤍</p>
