@@ -6,11 +6,11 @@
 
 i made
 
-- [tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator)
-- [salimtype](https://github.com/betich/salimtype)
-- [online loy kratong festival - with TUCMC](https://github.com/triamudomcmc/loy-kratong)
-- [triam udom open house 2022 - with TUCMC](https://github.com/triamudomcmc/openhouse2022)
-- [triam udom club registration system - with TUCMC](https://github.com/triamudomcmc/clubreg)
+- [tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator) \[[live](https://tcas.betich.me)\]
+- [salimtype](https://github.com/betich/salimtype) \[[live](https://salim-type.web.app)\]
+- [online loy kratong festival - with TUCMC](https://github.com/triamudomcmc/loy-kratong) \[[live](https://loy-kratong.vercel.app)\]
+- [triam udom open house 2022 - with TUCMC](https://github.com/triamudomcmc/openhouse2022) \[[live](https://openhouse.triamudom.ac.th)\]
+- [triam udom club registration system - with TUCMC](https://github.com/triamudomcmc/clubreg) \[[live](https://clubreg-ui-tucmc.vercel.app/)\]
   
 <!--
 <h2>Things I kinda know</h2>
