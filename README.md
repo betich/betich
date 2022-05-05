@@ -100,4 +100,4 @@ idk these icons look cool
 </div>
 
 <!-- <hr> -->
-<p>everything made with 🤍</p>
+<!-- <p>everything made with 🤍</p> -->
