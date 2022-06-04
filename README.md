@@ -1,10 +1,10 @@
-[<img src="/src/profile.svg" alt="profile" />](https://github.com/betich/betich/blob/main/src/profile.svg)
+<!-- [<img src="/src/profile.svg" alt="profile" />](https://github.com/betich/betich/blob/main/src/profile.svg) -->
 
 <!-- <img width="20%" align="left" src="/src/betich.png" alt="profile"> -->
 
-<h1>👋 salut</h1>
+<h1>👋</h1>
 
-i made
+projects
 
 - [tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator) \[[live](https://tcas.betich.me)\]
 - [salimtype](https://github.com/betich/salimtype) \[[live](https://salim-type.web.app)\]
@@ -13,11 +13,7 @@ i made
 - [triam udom club registration system - with TUCMC](https://github.com/triamudomcmc/clubreg) \[[live](https://clubreg-ui-tucmc.vercel.app/)\]
   
 <!--
-<h2>Things I kinda know</h2>
-
-idk these icons look cool
-
-<h3>Languages</h3>
+<h3>languages</h3>
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -87,8 +83,7 @@ idk these icons look cool
 
 <div>
 <details>
-  <summary><samp>stats</samp></summary>
-  <h2>my github stats</h2>
+  <summary><samp>github stats</samp></summary>
   <br>
       <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
   <br>
@@ -98,6 +93,3 @@ idk these icons look cool
 </details>
   
 </div>
-
-<!-- <hr> -->
-<!-- <p>everything made with 🤍</p> -->
