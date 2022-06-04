@@ -2,7 +2,7 @@
 
 <!-- <img width="20%" align="left" src="/src/betich.png" alt="profile"> -->
 
-<h1>👋</h1>
+<h1><a href="https://betich.me" target="_blank" title="hi, i'm thee">👋</a></h1>
 
 projects
 
