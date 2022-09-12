@@ -78,7 +78,7 @@ projects
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
 </a> -->
 
-<div>
+<!-- <div>
 <details>
   <summary><samp>github stats</samp></summary>
   <br>
@@ -89,4 +89,4 @@ projects
   </a>
 </details>
   
-</div>
+</div> -->
