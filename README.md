@@ -6,8 +6,11 @@
 
 projects
 
+- [ped4you](https://github.com/PED4you/ped4you-website) \[[live](https://ped4you.com)\]
+- [vid love vid u](https://github.com/vidlovevidu-chula/vlvu-website) \[[live](https://vidlovevidu.com)\]
 - [tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator) \[[live](https://tcas.betich.me)\]
 - [salimtype](https://github.com/betich/salimtype) \[[live](https://salim-type.web.app)\]
+- [eic robocup website](https://github.com/robocup-eic/eic-website) \[[live](https://eicrobocup.com)\]
   
 <!--
 <h3>languages</h3>
