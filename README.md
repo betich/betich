@@ -4,6 +4,10 @@
 
 <h1><a href="https://betich.me" target="_blank" title="hi, i'm thee">👋</a></h1>
 
+# talk to me about
+- 🎹 music (keyboard, music theory)
+- 💻 frontend web development (next.js, astro, tailwindcss)
+
 # projects
 
 ## 2023
