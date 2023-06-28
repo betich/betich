@@ -8,6 +8,12 @@
 - 🎹 music (keyboard, music theory)
 - 💻 frontend web development (next.js, astro, tailwindcss)
 
+# work experience
+- (2023) @isd-sgcu presidient, information system development (isd), student government of chulalongkorn university (sgcu)
+- (2022) @thinc-org member, thinc. chula
+- (2022) @isd-sgcu frontend developer, information system development (isd), student government of chulalongkorn university (sgcu)
+- (2021) @triamudomcmc web developer, triam udom clubs management committee (tucmc)
+
 # projects
 
 ## 2023
