@@ -4,92 +4,24 @@
 
 <h1><a href="https://betich.me" target="_blank" title="hi, i'm thee">👋</a></h1>
 
-projects
+# projects
 
+## 2023
 - [ped4you](https://github.com/PED4you/ped4you-website) \[[live](https://ped4you.com)\]
 - [vid love vid u](https://github.com/vidlovevidu-chula/vlvu-website) \[[live](https://vidlovevidu.com)\]
-- [tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator) \[[live](https://tcas.betich.me)\]
-- [salimtype](https://github.com/betich/salimtype) \[[live](https://salim-type.web.app)\]
 - [eic robocup website](https://github.com/robocup-eic/eic-website) \[[live](https://eicrobocup.com)\]
-  
-<!--
-<h3>languages</h3>
+- [rub puen kao mai 2022](https://github.com/isd-sgcu/rnkm65-frontend)
 
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://sass-lang.com/" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nodejs.org/en/" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+## 2022
+- [programming.in.th](https://github.com/programming-in-th/programming.in.th) \[[live](https://staging.programming.in.th)\]
+- [tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator) \[[live](https://tcas.betich.me)\]
+- [triam udom schedule generator](https://github.com/triamudomcmc/schedule-generator) \[[live](https://schedule.tucm.cc)\]
+- [tucmc website](https://github.com/triamudomcmc/tucmc-site) \[[live](https://clubs.triamudom.ac.th/)\]
+- [triam udom club registration system](https://github.com/triamudomcmc/clubreg) \[[live](https://register.clubs.triamudom.ac.th/)\]
+- [triam udom open house 2022](https://github.com/triamudomcmc/openhouse2022) \[[live](https://openhouse-2022.vercel.app/)\]
 
-<h3>Frameworks/Libraries</h3>
-
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank">
-     <img src="https://github.com/betich/betich/blob/main/src/nextjs-white.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://preactjs.com/" target="_blank">
-     <img src="https://github.com/betich/betich/blob/main/src/preact.svg" alt="preact" width="40" height="40"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  
-  <a href="https://svelte.dev/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery(lol)" width="40" height="40"/>
-  </a>
-</p>
-
-<h3>Databases/Other</h3>
-
-<p align="left">
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
-
--->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
-</a> -->
-
-<!-- <div>
-<details>
-  <summary><samp>github stats</samp></summary>
-  <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=betich&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats">
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betich&theme=tokyonight" alt="Top Langs">
-  </a>
-</details>
-  
-</div> -->
+## 2021
+- [salimtype](https://github.com/betich/salimtype) \[[live](https://salim-type.web.app)\]
+- [the 5th stupid hackathon thaialnd](https://github.com/StupidHackTH/Stupid-Hackathon-5-Webpage) \[[live](https://stupid.hackathon.in.th/5)\]
+- [tocpc website](https://github.com/TOCPC/tocpc-site) \[[live](https://tocpc.codes)\]
+- [online loy kratong](https://github.com/triamudomcmc/loy-kratong) \[[live](https://loy-kratong.vercel.app/)\]
