@@ -24,9 +24,9 @@
 - 👞 cu wander (frontend)
 - [🪐 cu intania open house 2023](https://github.com/thinc-org/intania-oph) \[[live](https://intania-oph.vercel.app/)\]
 - [🌷 vid love vid u](https://github.com/vidlovevidu-chula/vlvu-website) \[[live](https://vidlovevidu.com)\]
-- [🤖 eic robocup website](https://github.com/robocup-eic/eic-website) \[[live](https://eicrobocup.com)\]
 
 ## 2022
+- [🤖 eic robocup website](https://github.com/robocup-eic/eic-website) \[[live](https://eicrobocup.com)\]
 - [👨‍🎓 rub puen kao mai 2022](https://github.com/isd-sgcu/rnkm65-frontend)
 - [📕 tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator) \[[live](https://tcas.betich.me)\]
 - [💻 programming.in.th](https://github.com/programming-in-th/programming.in.th) \[[live](https://staging.programming.in.th)\]
