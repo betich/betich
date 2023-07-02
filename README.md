@@ -7,7 +7,7 @@
 # talk to me about
 - 🎹 music (keyboard, music theory)
 - 💻 frontend web development (next.js, astro, tailwindcss)
-- 🖌️ artsy stuff (mostly about graphic design)
+- 🖌️ other artsy/creative stuff (graphic design, games, etc.)
 
 # work experience
 - (2023) [@isd-sgcu](https://github.com/isd-sgcu) president, information system development (isd) department, student government of chulalongkorn university (sgcu)
