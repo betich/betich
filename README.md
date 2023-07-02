@@ -37,3 +37,9 @@
 - [👾 the 5th stupid hackathon thaialnd](https://github.com/StupidHackTH/Stupid-Hackathon-5-Webpage) \[[live](https://stupid.hackathon.in.th/5)\]
 - [🖥️ tocpc website](https://github.com/TOCPC/tocpc-site) \[[live](https://tocpc.codes)\]
 - [🌿 online loy kratong](https://github.com/triamudomcmc/loy-kratong) \[[live](https://loy-kratong.vercel.app/)\]
+
+# contact
+
+- facebook: [Panithi Makthiengtrong](https://fb.me/panithi.makthiengtrong)
+- instagram: [ttthhheeeeeeeee](https://instagram.com/ttthhheeeeeeeee/)
+- email: [contact@betich.me](mailto:contact@betich.me)
