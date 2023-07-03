@@ -11,6 +11,7 @@
 
 # work experience
 - (2023) [@isd-sgcu](https://github.com/isd-sgcu) president, information system development (isd) department, student government of chulalongkorn university (sgcu)
+- (2023) [@esc-chula](https://github.com/esc-chula) member, it department, engineering student committee (esc), chulalongkorn university
 - (2022) [@creatorsgarten](https://github.com/creatorsgarten) member, creatorsgarten
 - (2022) [@thinc-org](https://github.com/thinc-org) member, thinc. chula
 - (2022) [@isd-sgcu](https://github.com/isd-sgcu) frontend developer, information system development (isd) department, student government of chulalongkorn university (sgcu)
@@ -20,6 +21,8 @@
 # projects
 
 ## 2023
+- [👩‍🎓 rub puen kao mai 2023](https://github.com/isd-sgcu/rpkm66-frontend)
+- vishnu 21st
 - [🦆 ped4you](https://github.com/PED4you/ped4you-website) \[[live](https://ped4you.com)\]
 - 👞 cu wander (frontend)
 - [🪐 cu intania open house 2023](https://github.com/thinc-org/intania-oph) \[[live](https://intania-oph.vercel.app/)\]
