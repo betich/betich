@@ -32,7 +32,7 @@
 - [🤖 eic robocup website](https://github.com/robocup-eic/eic-website) \[[live](https://eicrobocup.com)\]
 - [👨‍🎓 rub puen kao mai 2022](https://github.com/isd-sgcu/rnkm65-frontend)
 - [📕 tcas exam schedule generator](https://github.com/betich/tcas3-schedule-generator) \[[live](https://tcas.betich.me)\]
-- [💻 programming.in.th](https://github.com/programming-in-th/programming.in.th) \[[live](https://staging.programming.in.th)\]
+- [💻 programming.in.th](https://github.com/programming-in-th/programming.in.th) \[[live](https://programming.in.th)\]
 - [👩‍💻 tucmc website](https://github.com/triamudomcmc/tucmc-site) \[[live](https://clubs.triamudom.ac.th/)\]
 - [📝 triam udom clubs registration system](https://github.com/triamudomcmc/clubreg) \[[live](https://register.clubs.triamudom.ac.th/)\]
 - [🛰️ triam udom open house 2022](https://github.com/triamudomcmc/openhouse2022) \[[live](https://openhouse-2022.vercel.app/)\]
