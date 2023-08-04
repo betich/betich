@@ -22,7 +22,7 @@
 
 ## 2023
 - [👩‍🎓 rub puen kao mai 2023](https://github.com/isd-sgcu/rpkm66-frontend)
-- vishnu 21st
+- [🔮 vishnu 21st](https://github.com/esc-chula/vishnu21-frontend)
 - [🦆 ped4you](https://github.com/PED4you/ped4you-website) \[[live](https://ped4you.com)\]
 - 👞 cu wander (frontend)
 - [🪐 cu intania open house 2023](https://github.com/thinc-org/intania-oph) \[[live](https://intania-oph.vercel.app/)\]
