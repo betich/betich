@@ -39,7 +39,7 @@
 
 ## 2021
 - [⌨️ salimtype](https://github.com/betich/salimtype) \[[live](https://salim-type.web.app)\]
-- [👾 the 5th stupid hackathon thaialnd](https://github.com/StupidHackTH/Stupid-Hackathon-5-Webpage) \[[live](https://stupid.hackathon.in.th/5)\]
+- [👾 the 5th stupid hackathon thailand](https://github.com/StupidHackTH/Stupid-Hackathon-5-Webpage) \[[live](https://stupid.hackathon.in.th/5)\]
 - [🖥️ tocpc website](https://github.com/TOCPC/tocpc-site) \[[live](https://tocpc.codes)\]
 - [📅 triam udom schedule generator](https://github.com/triamudomcmc/schedule-generator) \[[live](https://schedule.tucm.cc)\]
 - [🌿 online loy kratong](https://github.com/triamudomcmc/loy-kratong) \[[live](https://loy-kratong.vercel.app/)\]
