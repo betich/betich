@@ -11,6 +11,7 @@
 
 # work experience
 - (2024) [@esc-chula](https://github.com/esc-chula) director of marketing & communication department, engineering student committee (esc), chulalongkorn university
+- (2024) [@esc-chula](https://github.com/esc-chula) director of marketing & communication department, engineering student committee (esc), chulalongkorn university
 - (2023) [@isd-sgcu](https://github.com/isd-sgcu) president, information system development (isd) department, student government of chulalongkorn university (sgcu)
 - (2023) [@esc-chula](https://github.com/esc-chula) member, internal affairs department, engineering student committee (esc), chulalongkorn university
 - (2022) [@creatorsgarten](https://github.com/creatorsgarten) member, creatorsgarten
@@ -20,6 +21,9 @@
 - (2021) [@triamudomcmc](https://github.com/triamudomcmc) web developer, triam udom clubs management committee (tucmc)
 
 # projects
+
+## 2024
+- [⚽️ cu-tu 2024 unity football match](https://github.com/isd-sgcu/cutu-2024)
 
 ## 2023
 - [👩‍🎓 rub puen kao mai 2023](https://github.com/isd-sgcu/rpkm66-frontend)
