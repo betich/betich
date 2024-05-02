@@ -55,3 +55,4 @@
 - facebook: [Panithi Makthiengtrong](https://fb.me/panithi.makthiengtrong)
 - instagram: [@ttthhheeeeeeeee](https://instagram.com/ttthhheeeeeeeee/)
 - email: [contact@betich.me](mailto:contact@betich.me)
+- linkedin: [in/betich](https://linkedin.com/in/betich)
