@@ -24,6 +24,7 @@
 
 ## 2024
 - [⚽️ cu-tu 2024 unity football match](https://github.com/isd-sgcu/cutu-2024)
+- [🌷 vid love vid u 2024](https://github.com/vidlovevidu-chula/vlvu2024-website) \[[live](https://vidlovevidu.com)\]
 
 ## 2023
 - [👩‍🎓 rub puen kao mai 2023](https://github.com/isd-sgcu/rpkm66-frontend)
@@ -31,7 +32,7 @@
 - [🦆 ped4you](https://github.com/PED4you/ped4you-website) \[[live](https://ped4you.com)\]
 - 👞 cu wander (frontend)
 - [🪐 cu intania open house 2023](https://github.com/thinc-org/intania-oph) \[[live](https://intania-oph.vercel.app/)\]
-- [🌷 vid love vid u](https://github.com/vidlovevidu-chula/vlvu-website) \[[live](https://vidlovevidu.com)\]
+- [🌷 vid love vid u](https://github.com/vidlovevidu-chula/vlvu2023-website) \[[live](https://vidlovevidu.com)\]
 
 ## 2022
 - [🤖 eic robocup website](https://github.com/robocup-eic/eic-website) \[[live](https://eicrobocup.com)\]
