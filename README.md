@@ -14,8 +14,8 @@
 - 🪁 [@isd-sgcu](https://github.com/isd-sgcu) department president, frontend developer [2023, 2022] 
 - 🦄 [@creatorsgarten](https://github.com/creatorsgarten) collective member
 - 💡 [@thinc-org](https://github.com/thinc-org) member and core team
-- 💻 [@triamcomputerclub](https://github.com/triamcomputerclub) instructor
-- 📚 [@triamudomcmc](https://github.com/triamudomcmc) web developer
+- 💻 [@triamcomputerclub](https://github.com/triamcomputerclub) instructor [2022]
+- 📚 [@triamudomcmc](https://github.com/triamudomcmc) web developer [2021]
 
 # projects
 
