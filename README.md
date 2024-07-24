@@ -6,8 +6,8 @@
 
 # talk to me about
 - 🎹 music (keyboard, music theory)
-- 💻 frontend web development (next.js, astro, tailwindcss)
-- 🖌️ other artsy/creative stuff (graphic design, games, etc.)
+- 💻 programming and web development (typescript, next.js, astro, tailwindcss)
+- 🖌️ other artsy/creative stuff (graphic design, ux-ui design, video games, etc.)
 
 # work experience
 - ⚙️ [@esc-chula](https://github.com/esc-chula) director of marketing & communication department, member of internal affairs department [2024, 2023]
