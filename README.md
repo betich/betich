@@ -20,7 +20,7 @@
 # projects
 
 ## 2024
-- [💖 junior webmaster camp 13](https://github.com/webmastercamp)
+- [💖 junior webmaster camp 13](https://github.com/webmastercamp) \[[live](https://13.jwc.in.th)\]
 - [⚽️ cu-tu 2024 unity football match](https://github.com/isd-sgcu/cutu-2024)
 - [🌷 vid love vid u 2024](https://github.com/vidlovevidu-chula/vlvu2024-website) \[[live](https://vidlovevidu.com)\]
 
