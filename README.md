@@ -12,7 +12,7 @@
 # roles / experiences (as a student)
 - ⚙️ [@esc-chula](https://github.com/esc-chula) director of marketing & communication department, member of internal affairs department [2024, 2023]
 - 🪁 [@isd-sgcu](https://github.com/isd-sgcu) department president, frontend developer [2023, 2022] 
-- 🦄 [@creatorsgarten](https://github.com/creatorsgarten) collective member
+- 🦄 [@creatorsgarten](https://github.com/creatorsgarten) stupid
 - 💡 [@thinc-org](https://github.com/thinc-org) member and core team [2024, 2023, 2022]
 - 💻 [@triamcomputerclub](https://github.com/triamcomputerclub) instructor [2022]
 - 📚 [@triamudomcmc](https://github.com/triamudomcmc) web developer [2021]
