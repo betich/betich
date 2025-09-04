@@ -5,8 +5,8 @@
 <h1><a href="https://betich.me" target="_blank" title="hi, i'm thee">👋</a></h1>
 
 # talk to me about
+- 💻 programming (web development, ai/ml): typescript (react, next, astro, tailwindcss, hono, elysia, ...), python (flask, pytorch, ...), go
 - 🎹 music (keyboard, music theory)
-- 💻 programming and web development (typescript, next.js, astro, tailwindcss)
 - 🖌️ artsy/creative stuff (graphic design, ux-ui design, video games, etc.)
 
 # roles / experiences (as a student)
