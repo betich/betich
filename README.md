@@ -4,6 +4,8 @@
 
 <h1><a href="https://betich.me" target="_blank" title="hi, i'm thee">👋</a></h1>
 
+[![committers.top badge](https://user-badge.committers.top/thailand_private/betich.svg?cache_bust=1)](https://user-badge.committers.top/thailand_private/betich)
+
 # talk to me about
 - 💻 programming (web development, ai/ml): typescript (react, next, astro, tailwindcss, hono, elysia, ...), python (flask, pytorch, ...), go
 - 🎹 music (keyboard, music theory)
