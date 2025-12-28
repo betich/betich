@@ -22,6 +22,7 @@
 # projects
 
 ## 2025
+- [✨ contester.life](https://contester.life) \[[live](https://contester.life)\]
 - [🔊 intania jukebox](https://github.com/betich/intania-jukebox)
 
 ## 2024
