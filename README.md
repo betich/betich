@@ -2,13 +2,15 @@
 
 <!-- <img width="20%" align="left" src="/src/betich.png" alt="profile"> -->
 
+<div align="center">
+  
 <h1><a href="https://betich.me" target="_blank" title="hi, i'm thee">👋</a></h1>
-
-### portal
 
 [📄 portfolio](https://github.com/betich/betich/blob/main/src/Panithi%20Makthiengtrong%20-%20Portfolio.pdf) • [📝 résumé](https://resume.betich.me) • [🌐 personal web](https://betich.me)
 
 [![committers.top badge](https://user-badge.committers.top/thailand_private/betich.svg?cache_bust=1)](https://user-badge.committers.top/thailand_private/betich)
+
+</div>
 
 # talk to me about
 - 💻 programming (web development, ai/ml): typescript (react, next, astro, tailwindcss, hono, elysia, ...), python (flask, pytorch, ...), go
